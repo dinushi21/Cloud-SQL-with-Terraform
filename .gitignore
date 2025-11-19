@@ -1,0 +1,11 @@
+# Terraform state
+terraform.tfstate
+terraform.tfstate.*
+crash.log
+
+# Local terraform stuff
+.terraform/
+.terraform.lock.hcl
+
+# Provider binaries
+terraform-provider-*

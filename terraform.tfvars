@@ -1,0 +1,9 @@
+project_id              = "cloud-sql-demo-478718"
+db_region               = "us-central1"
+db_tier                 = "db-f1-micro"
+db_name                 = "demo_db"
+db_user                 = "demo_user"
+db_password             = "sddn2122"
+db_version              = "MYSQL_8_0"       
+# Use a narrow CIDR for your client IP (e.g., a single /32). 0.0.0.0/0 is unsafe.
+authorized_network_cidr = "203.0.113.0/32"
