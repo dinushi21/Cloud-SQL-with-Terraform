@@ -51,7 +51,7 @@ cloud-sql-terraform-lab/
 1) Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/cloud-sql-terraform-lab.git
+git clone https://github.com/<dinushi21>/cloud-sql-terraform-lab.git
 cd cloud-sql-terraform-lab
 ```
 
