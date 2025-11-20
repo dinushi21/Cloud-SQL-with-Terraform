@@ -98,7 +98,9 @@ mysql -u demo_user -p --host 127.0.0.1 --port 3306
 ## Screenshots
 
 ### Cloud SQL Instance
-![Cloud SQL Instance](screenshots/cloud-sql-instance.png)
+![Cloud SQL Instance](screenshots/sql.png)
+![Cloud SQL Instance](screenshots/sql2.png)
+
 
 ### Terraform Apply
 ![Terraform Apply](screenshots/terraform-apply.png)
