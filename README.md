@@ -95,6 +95,15 @@ mysql -u demo_user -p --host 127.0.0.1 --port 3306
 
 ## Notes
 
+## Screenshots
+
+### Cloud SQL Instance
+![Cloud SQL Instance](screenshots/cloud-sql-instance.png)
+
+### Terraform Apply
+![Terraform Apply](screenshots/terraform-apply.png)
+
+
 - Do not commit real credentials or service account keys; store them securely outside version control.
 - The defaults keep public IPv4 enabled but lock access to the CIDR you provide. For production, prefer private IP and VPC connectivity.
 - Delete protection is on by default; disable intentionally if you need to destroy the instance.
